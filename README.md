@@ -1,1 +1,1 @@
-Parallel computing in Python and C.
+Parallel computing in Python (Pipes and Queues) and C (MPI).
